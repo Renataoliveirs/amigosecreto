@@ -21,14 +21,6 @@ Este projeto tem como objetivo praticar lógica de programação utilizando Java
 - **Sorteio**: Após a lista de amigos estar preenchida, o usuário pode clicar em "Sortear" para escolher um amigo secreto de forma aleatória. O nome sorteado é removido da lista, para que não se repita.
 - **Novo Jogo**: Ao clicar em "Novo Jogo", todos os dados são apagados e a lista é reiniciada.
 
-## Como Rodar
-
-1. Clone o repositório para o seu computador:
-   ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-
-
-
 
 ## Tecnologias Utilizadas
 HTML : Estrutura básica do site.
